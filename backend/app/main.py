@@ -186,10 +186,13 @@ def generate_persona_from_taste(movies: str, music: str, brands: str, gender: st
     Only respond with valid JSON.
     """
 
+    base_temperature = 0.8 + (variation_seed * 0.05)
+    capped_temperature = min(base_temperature, 2.0)
+    
     response = client.chat.completions.create(
         model="gpt-4",
         messages=[{"role": "user", "content": prompt}],
-        temperature=0.8 + (variation_seed * 0.05),
+        temperature=capped_temperature,
         max_tokens=800
     )
 
