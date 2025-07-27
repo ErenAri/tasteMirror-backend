@@ -1,4 +1,7 @@
 fastapi
-httpx
 uvicorn
 python-dotenv
+httpx
+openai
+requests
+pydantic
