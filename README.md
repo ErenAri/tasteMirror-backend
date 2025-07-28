@@ -34,10 +34,9 @@ TasteMirror is an AI-powered personality and culture analysis platform that help
 
 ## 🖼 Screenshots
 
-| Persona & Traits | Cultural Map |
-|------------------|--------------|
-| ![persona] <img width="1919" height="909" alt="Ekran görüntüsü 2025-07-29 012833" src="https://github.com/user-attachments/assets/8b1aa635-9a0f-4e55-9bcb-cdd25373c362" />
-| ![map] <img width="489" height="799" alt="Ekran görüntüsü 2025-07-29 013118" src="https://github.com/user-attachments/assets/77389b3d-43a0-4647-ae8b-85fe381573f1" />
+<img width="1917" height="907" alt="Ekran görüntüsü 2025-07-29 012648" src="https://github.com/user-attachments/assets/ee67362d-0822-4ddc-8d76-96dfd967ee6d" />
+<img width="1919" height="909" alt="Ekran görüntüsü 2025-07-29 012833" src="https://github.com/user-attachments/assets/8b1aa635-9a0f-4e55-9bcb-cdd25373c362" />
+<img width="489" height="799" alt="Ekran görüntüsü 2025-07-29 013118" src="https://github.com/user-attachments/assets/77389b3d-43a0-4647-ae8b-85fe381573f1" />
 
 ## Medium
 -> https://medium.com/@erenari27/tastemirror-discovering-your-cultural-twin-with-ai-and-qloo-9e1e4399cde8
